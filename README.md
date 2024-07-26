@@ -31,23 +31,28 @@ To run this project locally, follow these steps:
 2.  Install Dependencies
 
     For the frontend:
-     cd todolist
-     npm install
+
+    cd todolist
+    npm install
+
 
     For the backend (if it’s in a separate directory, adjust accordingly):
+    
      cd Server
      npm install
 
-3.  Set Up Environment Variables
+4.  Set Up Environment Variables
 
       Ensure you have a .env file set up with the necessary environment variables (e.g., database URL).
     
-4.   Start the Application
+5.   Start the Application
    
       Start the backend server
+     
          cd Server
          npm start
        Start the frontend development server
+     
          cd ../todolist
          npm start
 
