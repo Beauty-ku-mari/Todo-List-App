@@ -8,3 +8,11 @@ The Todo List App is a simple and efficient application for managing your daily 
 - **Edit Tasks**: Mark tasks as completed or not completed.
 - **Delete Tasks**: Remove tasks from the list.
 - **Task Persistence**: Tasks are stored and retrieved from a backend server.
+
+## Technologies Used
+
+- **Frontend**: React
+- **Backend**: Node.js and Express
+- **Database**: MongoDB (or any other database you're using)
+- **Icons**: React Icons
+- **Styling**: CSS
