@@ -16,3 +16,13 @@ The Todo List App is a simple and efficient application for managing your daily 
 - **Database**: MongoDB (or any other database you're using)
 - **Icons**: React Icons
 - **Styling**: CSS
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/Beauty-ku-mari/Todo-List-App.git
+   cd Todo-List-App
