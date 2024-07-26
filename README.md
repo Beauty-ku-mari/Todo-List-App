@@ -33,19 +33,22 @@ To run this project locally, follow these steps:
     For the frontend:
 
     cd todolist
+    
     npm install
 
 
     For the backend (if it’s in a separate directory, adjust accordingly):
     
      cd Server
+    
      npm install
 
-4.  Set Up Environment Variables
+
+3.  Set Up Environment Variables
 
       Ensure you have a .env file set up with the necessary environment variables (e.g., database URL).
     
-5.   Start the Application
+4.   Start the Application
    
       Start the backend server
      
@@ -55,4 +58,6 @@ To run this project locally, follow these steps:
      
          cd ../todolist
          npm start
+5.    Access the Application
 
+        Open your browser and go to http://localhost:3000 (or whatever port your React app is running on).  
